@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/todoapp-frontend/static/js/main.2c0880ff.chunk.js",
-    "main.js.map": "/todoapp-frontend/static/js/main.2c0880ff.chunk.js.map",
+    "main.js": "/todoapp-frontend/static/js/main.40d2be98.chunk.js",
+    "main.js.map": "/todoapp-frontend/static/js/main.40d2be98.chunk.js.map",
     "runtime-main.js": "/todoapp-frontend/static/js/runtime-main.5828a56c.js",
     "runtime-main.js.map": "/todoapp-frontend/static/js/runtime-main.5828a56c.js.map",
     "static/js/2.7f11cdce.chunk.js": "/todoapp-frontend/static/js/2.7f11cdce.chunk.js",
     "static/js/2.7f11cdce.chunk.js.map": "/todoapp-frontend/static/js/2.7f11cdce.chunk.js.map",
     "index.html": "/todoapp-frontend/index.html",
-    "precache-manifest.2d912cf574d4d7913f8cab0ef7ba3a43.js": "/todoapp-frontend/precache-manifest.2d912cf574d4d7913f8cab0ef7ba3a43.js",
+    "precache-manifest.5e572e1c0e3b852f5591e8076797e0a4.js": "/todoapp-frontend/precache-manifest.5e572e1c0e3b852f5591e8076797e0a4.js",
     "service-worker.js": "/todoapp-frontend/service-worker.js",
     "static/js/2.7f11cdce.chunk.js.LICENSE.txt": "/todoapp-frontend/static/js/2.7f11cdce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5828a56c.js",
     "static/js/2.7f11cdce.chunk.js",
-    "static/js/main.2c0880ff.chunk.js"
+    "static/js/main.40d2be98.chunk.js"
   ]
 }
